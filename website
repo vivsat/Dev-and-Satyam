@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Technology & NRW</title>
+  <link rel="stylesheet" href="we.css">
+</head>
+<body>
+  <header>
+    <h1>Digital Technology in Addressing Non-Revenue Water (NRW)</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#benefits">Benefits</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <h2>About</h2>
+      <p>Non-Revenue Water (NRW) refers to water that is lost before it reaches the end consumer due to leaks, theft, or other factors. Our platform utilizes digital technology to minimize NRW and ensure efficient water management.</p>
+    </div>
+  </section>
+
+  <section id="features">
+    <div class="container">
+      <h2>Features</h2>
+      <ul>
+        <li>Advanced Leak Detection</li>
+        <li>Remote Monitoring</li>
+        <li>Predictive Analytics</li>
+        <li>Mobile Applications</li>
+        <li>Customer Engagement Tools</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="benefits">
+    <div class="container">
+      <h2>Benefits</h2>
+      <ul>
+        <li>Cost Savings</li>
+        <li>Environmental Conservation</li>
+        <li>Improved Service Reliability</li>
+        <li>Data-Driven Decision Making</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>For inquiries or to learn more about our platform, please contact us at: contact@example.com</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Digital NRW Solutions. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
+
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 40px 0;
+  }
+  
+  section h2 {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
